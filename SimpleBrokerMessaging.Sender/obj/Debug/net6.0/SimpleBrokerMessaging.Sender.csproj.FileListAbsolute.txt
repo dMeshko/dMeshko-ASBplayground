@@ -20,3 +20,9 @@ C:\Projects\_playground\SimpleBrokerMessaging\SimpleBrokerMessaging.Sender\obj\D
 C:\Projects\_playground\SimpleBrokerMessaging\SimpleBrokerMessaging.Sender\obj\Debug\net6.0\SimpleBrokerMessaging.Sender.pdb
 C:\Projects\_playground\SimpleBrokerMessaging\SimpleBrokerMessaging.Sender\obj\Debug\net6.0\SimpleBrokerMessaging.Sender.genruntimeconfig.cache
 C:\Projects\_playground\SimpleBrokerMessaging\SimpleBrokerMessaging.Sender\obj\Debug\net6.0\ref\SimpleBrokerMessaging.Sender.dll
+C:\Projects\_playground\SimpleBrokerMessaging\SimpleBrokerMessaging.Sender\bin\Debug\net6.0\Azure.Identity.dll
+C:\Projects\_playground\SimpleBrokerMessaging\SimpleBrokerMessaging.Sender\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Projects\_playground\SimpleBrokerMessaging\SimpleBrokerMessaging.Sender\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Projects\_playground\SimpleBrokerMessaging\SimpleBrokerMessaging.Sender\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Projects\_playground\SimpleBrokerMessaging\SimpleBrokerMessaging.Sender\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\_playground\SimpleBrokerMessaging\SimpleBrokerMessaging.Sender\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
